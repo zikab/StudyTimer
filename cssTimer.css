@@ -1,0 +1,8 @@
+*{
+	align-content: center;
+}
+img{
+	position: relative;
+    max-height: 300px;
+    height: 100%;
+}
